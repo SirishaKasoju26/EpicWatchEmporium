@@ -1,4 +1,4 @@
-# javascript_project
+# EpicWatchEmporium
 Creating a sample Application using Javascript.
 
 
