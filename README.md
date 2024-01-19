@@ -1,5 +1,5 @@
 # javascript_project
-Creating a 
+Creating a sample Application using Javascript.
 
 
 ## Description
